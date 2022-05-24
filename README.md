@@ -1,3 +1,3 @@
 # Demo-Code-Blynk2
 Common Mistakes in Blynk2.0 | Complication Error | NodeMCU | ESP32 |ESPtools | SME Dehradun
-For Video Tutorials, visit https://youtu.be/JZXzv-Ut7Zw
+How to use Demo code? See our video tutorial: https://youtu.be/EPhY_hDozeo?t=198
